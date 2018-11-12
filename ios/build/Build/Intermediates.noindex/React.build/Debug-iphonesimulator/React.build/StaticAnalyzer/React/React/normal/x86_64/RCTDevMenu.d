@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTDevMenu.m \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTDevMenu.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/andreaagatha/Desktop/reactTutorialApp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
